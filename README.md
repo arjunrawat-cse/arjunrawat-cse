@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Rawat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunrawat-cse&label=Profile%20views&color=0e75b6&style=flat" alt="arjunrawat-cse" /> </p>  
 
-<img align="right" alt="Coding" width="400" src="https://share.google/6wYeeFwl4tcEma03P">                                                                                 
+<img align="right" alt="Coding" width="400" src="https://user-images.gi...">                                                                                 
 
 - 💬 Ask me about **C Programming, C++, Object-Oriented Programming (OOP), Data Structures & Algorithms, Problem Solving**
 
